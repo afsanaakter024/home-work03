@@ -1,0 +1,58 @@
+footer{
+	width: 100%;
+	
+	background-color: #121B2C;
+
+}
+
+
+.wrapper1 {
+	overflow: hidden;
+	width: 70%;
+	
+	margin: 0 auto;
+}
+
+.logo {
+	padding: 14px;
+    margin-top: 0px;
+	float: right;
+	width:35%;
+	
+
+}
+.logo img{
+	width: 100%;
+
+}
+
+.menu {
+	margin-bottom: -20px;
+	float: left;
+
+
+	width: 60%;
+}
+.menu ul{
+	list-style: none;
+	display: inline-block;
+}
+.menu ul li {
+	float: left;
+}
+.menu ul li a {
+	font-family: sans-serif;
+	display: block;
+    margin: 10px;
+    text-decoration: none;
+    color: #FFFEFF;
+    font-size: 15px;
+}
+
+.articles{
+	margin-left: 50px;
+	color: #FDFEFF;
+
+}
+
+
